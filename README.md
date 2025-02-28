@@ -3,6 +3,7 @@
 📝 Overview
 
 Mimicking Google Sheets is a powerful and interactive spreadsheet application built using React.js. This project replicates key functionalities of Google Sheets, providing users with a familiar, efficient, and intuitive experience for managing tabular data.
+
 It supports real-time computations, dynamic formula updates, and an enhanced user interface using the Handsontable.js library, making it a great tool for anyone dealing with structured data, calculations, or simple data analysis.
 
 🚀 Key Features
@@ -69,22 +70,27 @@ php
 Ensure you have the following installed:
 
 Node.js (Latest stable version)
+
 Git (Optional, for cloning the repository)
 
 🔹 Clone the Repository
 
 sh
+
 git clone https://github.com/YOUR_GITHUB_USERNAME/google-sheets-clone.git
+
 cd google-sheets-clone
 
 🔹 Install Dependencies
 
 sh
+
 npm install
 
 🔹 Run the Application
 
 sh
+
 npm start
 
 
