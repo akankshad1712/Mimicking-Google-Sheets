@@ -101,6 +101,10 @@ Once the setup is complete, open http://localhost:3000/ in your browser.
 This project is licensed under the MIT License, allowing free use and modifications.
 
 📬 Contact & Contribution
+
 📧 Email: akankshadeshmukh308@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/akanksha-deshmukh-26210b244/
+
 💬 Feedback is appreciated! Feel free to reach out for any queries or suggestions.
+
