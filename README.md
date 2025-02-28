@@ -45,13 +45,21 @@ php
 📦 google-sheets-clone
 
  ┣ 📂 src
+ 
  ┃ ┣ 📂 components   # Reusable UI components (spreadsheet, toolbar, etc.)
+ 
  ┃ ┣ 📂 hooks        # Custom hooks for managing state and logic
+ 
  ┃ ┣ 📂 utils        # Helper functions for calculations and formatting
+ 
  ┃ ┗ App.js          # Main application file
+ 
  ┣ 📜 package.json    # Dependencies and scripts
+ 
  ┣ 📜 README.md       # Documentation
+ 
  ┗ 📜 .gitignore      # Files to exclude from Git
+ 
 
  
 🚀 Installation & Setup
